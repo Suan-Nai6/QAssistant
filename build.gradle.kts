@@ -19,6 +19,11 @@
  * <https://www.gnu.org/licenses/>
  * <https://github.com/cinit/QAuxiliary/blob/master/LICENSE.md>.
  */
+buildscript {
+    dependencies {
+        classpath("com.android.tools.build:gradle:8.0.1")
+    }
+}
 
 @Suppress("DSL_SCOPE_VIOLATION")
 plugins {
