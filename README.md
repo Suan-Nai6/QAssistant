@@ -1,8 +1,8 @@
 <div align="center">
-    <h1> QAuxiliary </h1>
+    <h1> QAssistant </h1>
 
-[![GitHub release](https://img.shields.io/github/release/cinit/QAuxiliary.svg)](https://github.com/cinit/QAuxiliary/releases/latest)
-[![main](https://github.com/cinit/QAuxiliary/actions/workflows/push_ci.yml/badge.svg)](https://github.com/cinit/QAuxiliary/actions/workflows/push_ci.yml)
+[![GitHub release](https://img.shields.io/github/release/Suan-Nai6/QAssistant.svg)](https://github.com/Suan-Nai6/QAssistant/releases/latest)
+[![main](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml/badge.svg)](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/QAuxiliary)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=CI&color=0088cc)](https://t.me/QAuxiliary_CI)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/QAuxiliaryChat)
@@ -79,7 +79,9 @@ QAuxiliary 将为分 `CI` 和 `推荐的CI` 两个版本
 
 3. [![GitHub release](https://img.shields.io/github/release/cinit/QAuxiliary.svg)](https://github.com/cinit/QAuxiliary/releases/latest) 将只发布 `推荐的CI` 版更新。
 
-4. [![](https://img.shields.io/badge/LSPosed-ClickMe-blue?link=https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/)](https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/) 将只发布 `推荐的CI` 版更新。
+4. [![](https://img.shields.io/badge/LSPosed-ClickMe-blue?link=https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/)](https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/)
+   将只发布 `推荐的CI` 版更新。
+
 </details>
 
 ## 不会支持的功能
