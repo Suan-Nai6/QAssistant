@@ -52,7 +52,7 @@ gradleEnterprise {
     }
 }
 
-rootProject.name = "QAuxiliary"
+rootProject.name = "QAssistant"
 include(
     ":app",
     ":libs:stub",
