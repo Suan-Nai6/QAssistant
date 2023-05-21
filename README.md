@@ -3,7 +3,8 @@
 
 [![GitHub release](https://img.shields.io/github/release/Suan-Nai6/QAssistant.svg)](https://github.com/Suan-Nai6/QAssistant/releases/latest)
 [![main](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml/badge.svg)](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml)
-[![QQ](https://img.shields.io/static/v1?label=QQ群&logo=tencentqq&message=Channel&color=0088cc)](https://t.me/QAuxiliary******)******
+[![QQ](https://img.shields.io/static/v1?label=QQ群&logo=tencentqq&message=Channel&color=0088cc)](https://t.me/QAuxiliary)
+[![issues](https://img.shields.io/github/issues/Suan-Nai6/QAssistant?logo=github)]
 
 </div>
 
