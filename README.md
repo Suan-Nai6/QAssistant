@@ -66,7 +66,7 @@ QAssistant 是一个基于 QAuxiliary 的开源 Xposed 模块
 
 - 由于项目的特殊性，我们不接受任何形式的捐赠，但是我们希望有更多的人能够参与本项目的开发
 
-## [通用许可协议](https://github.com/qwq233/License/blob/master/v2/LICENSE.md)
+[通用许可协议](https://github.com/qwq233/License/blob/master/v2/LICENSE.md)
 
-![备选案文]（https://repobeats.axiom.co/api/embed/d049a8a977ea00c45646218fdc903d0e8e2ab958.svg“Repobeats 分析图像”）
-![star] (https://star-history.com/#Suan-Nai6/QAssistant&Date)
+![备选案文](https://repobeats.axiom.co/api/embed/d049a8a977ea00c45646218fdc903d0e8e2ab958.svg)
+![star](https://star-history.com/#Suan-Nai6/QAssistant&Date)
