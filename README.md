@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/Suan-Nai6/QAssistant.svg)](https://github.com/Suan-Nai6/QAssistant/releases/latest)
 [![main](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml/badge.svg)](https://github.com/Suan-Nai6/QAssistant/actions/workflows/push_ci.yml)
 [![QQ](https://img.shields.io/static/v1?label=QQ群&logo=tencentqq&message=Channel&color=0088cc)](https://t.me/QAuxiliary)
-[![issues](https://img.shields.io/github/issues/Suan-Nai6/QAssistant?logo=github)]
+[![issues](https://img.shields.io/github/issues/Suan-Nai6/QAssistant?logo=github)](https://github.com/Suan-Nai6/QAssistant/issues)
 
 </div>
 
@@ -48,45 +48,9 @@ QAssistant 是一个基于 QAuxiliary 的开源 Xposed 模块
 本作品权利只许可使用，而不出售。
 ```
 
-## 发行渠道说明
-
-<details>
-
-QAuxiliary 采用滚动更新方式发布新版本，我们总是推荐用户使用最新版 QAuxiliary，无论您的 QQ 或者 TIM 客户端是哪个版本。
-
-QAuxiliary 将为分 `CI` 和 `推荐的CI` 两个版本
-
-- `CI` 版本为 commit 后自动触发更新，可能包含外围文档或 CI 流程更新，不会编写任何更新文档或说明，
-  具体更新内容可在[GitHub](https://github.com/cinit/QAuxiliary/commits/master)
-  自行查看，本更新由开源的流程自动编译发布，可能包含严重的功能及行为异常。
-
-- `推荐的CI` 版本为重大功能变更或长期积累更新，发布频率由开发组决定，包含上次`CI`
-  版至今的所有功能更新及 Bug 修复，但可能不包括尚未稳定或正在开发中的功能；
-  `推荐的CI` 版本是被挑选出的推荐用户更新的 `CI` 版本 (如：添加功能或者修复重要 Bug)
-
-开发组不限制用户选择自己需要的版本，同时也不为任何版本产生的任何后果承担任何责任
-（详情请见[QAuxiliary EULA](https://github.com/cinit/QAuxiliary/blob/master/app/src/main/assets/eula.md)），
-但希望各位用户各取所需，根据自己的能力范围选择适合自己的版本。
-
-- QAuxiliary 的版本号组成为`major.minor.bugfix.rev.commit`
-- 其中 major 为 主版本号，minor 为 次版本号，bugfix 为修正版本号；
-- 所有版本更新的`rev`为 commit 计数，`commit` 位都会是触发此次更新的 commit 的 hash 的前 7 位。
-
-1. [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=QAuxiliary频道&color=0088cc)](https://t.me/QAuxiliary) 将只发布 `推荐的CI` 版更新。
-
-2. [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=QAuxiliary_CI频道&color=0088cc)](https://t.me/QAuxiliary_CI) 发布 `CI` 版更新。
-
-3. [![GitHub release](https://img.shields.io/github/release/cinit/QAuxiliary.svg)](https://github.com/cinit/QAuxiliary/releases/latest) 将只发布 `推荐的CI` 版更新。
-
-4. [![](https://img.shields.io/badge/LSPosed-ClickMe-blue?link=https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/)](https://github.com/Xposed-Modules-Repo/io.github.qauxv/releases/)
-   将只发布 `推荐的CI` 版更新。
-
-</details>
-
 ## 不会支持的功能
 
 - 抢红包及其他金钱相关功能
-- 修改聊天记录等可能被恶意利用的功能
 - 群发消息
 
 ## 编译
@@ -103,3 +67,6 @@ QAuxiliary 将为分 `CI` 和 `推荐的CI` 两个版本
 - 由于项目的特殊性，我们不接受任何形式的捐赠，但是我们希望有更多的人能够参与本项目的开发
 
 ## [通用许可协议](https://github.com/qwq233/License/blob/master/v2/LICENSE.md)
+
+![备选案文]（https://repobeats.axiom.co/api/embed/d049a8a977ea00c45646218fdc903d0e8e2ab958.svg“Repobeats 分析图像”）
+![star] (https://star-history.com/#Suan-Nai6/QAssistant&Date)
